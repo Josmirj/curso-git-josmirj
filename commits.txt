@@ -1,0 +1,115 @@
+commit 1571cf633a80eb93c74e11e2e5016f53228129e8
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Mon Oct 31 13:03:13 2022 -0300
+
+    se agrega nuevas parrafos al nuevo p2
+
+commit 3af165fec1df209d85edf0801401efd78cb5842a
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Mon Oct 31 12:37:26 2022 -0300
+
+    agregando nuevo p
+
+commit c1b1f343ce9ef8cc6d2a2f8a653221a572112169
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Mon Oct 31 12:35:06 2022 -0300
+
+    se borran archivos
+
+commit c3d903f2bc38467ec195697fe222fc556b9fc893
+Merge: 1c776eb d2f49c3
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Mon Oct 31 00:25:48 2022 -0300
+
+    resolviendo conflictos en el index.html
+
+commit d2f49c3776410226be50a131235f811874a3434c
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Mon Oct 31 00:18:06 2022 -0300
+
+    agregando index.js al html
+
+commit 1c776ebd338a99dea1a37f12703f587bcb6b66bd
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Mon Oct 31 00:15:30 2022 -0300
+
+    agregando style al html
+
+commit 61256aaaecf2f9a5482afeba6b20d9a15a4c7275
+Merge: 68e3c5f 5ee8248
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Sun Oct 30 23:56:15 2022 -0300
+
+    Merge branch 'javascript'
+
+commit 5ee82485ada5a8a5b8a74d06d68ef86c1d44155f
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Sun Oct 30 23:49:50 2022 -0300
+
+    agrega rama javascript
+
+commit 68e3c5f4769c3047044cd51f57ebf2fc0733cda5
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Sun Oct 30 23:40:27 2022 -0300
+
+    agregando archivo style.css
+
+commit c2bb423344d0289dc4910efb0d77fb20fa51fd14
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Sun Oct 30 23:34:31 2022 -0300
+
+    Creando archivo Index.html
+
+commit e89d896f566fbbf5c15ab7b2add6a48443011a8f
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Sun Oct 30 23:31:40 2022 -0300
+
+    commit
+
+commit b6b405d4ed9faf671ff963299eb479440927b1ff
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Sun Oct 30 23:04:19 2022 -0300
+
+    se agrega archivo branch
+
+commit 313c6f1cc8d692e88c2bb1adbe3028816090f16a
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Fri Oct 28 09:56:00 2022 -0300
+
+    nueva imagen de contenido git
+
+commit 6996fce685b2fecc4558f295b6398ed540e6d9a9
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Fri Oct 28 09:48:33 2022 -0300
+
+    ignorando archivos.exe
+
+commit 130f8915b3fcc5e2e17767cf948c1123922eb07f
+Author: josjlab <116851033+josjlab@users.noreply.github.com>
+Date:   Fri Oct 28 08:52:02 2022 -0300
+
+     Creando Licencia del repositorio
+
+commit 7bf265082fef88838fee0dbbe2d99b82fea40c31
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Fri Oct 28 08:42:26 2022 -0300
+
+    se agrega descripcion nueva
+
+commit c45125a82844a92f0141e1a2c6b14ab77b26763d
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Thu Oct 27 23:19:54 2022 -0300
+
+    añado nuevo imagen
+
+commit c692541b8c4bd8a644d93c13c3f316d2e7de3a3a
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Thu Oct 27 23:18:34 2022 -0300
+
+    se agrega nombre al README
+
+commit 17342dc9348fda530152fa503ef17850a75e2483
+Author: Josmir Jaimes <jaimesjosmir@gmail.com>
+Date:   Thu Oct 27 23:14:18 2022 -0300
+
+    primer commit

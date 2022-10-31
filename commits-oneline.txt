@@ -1,0 +1,19 @@
+1571cf6 se agrega nuevas parrafos al nuevo p2
+3af165f agregando nuevo p
+c1b1f34 se borran archivos
+c3d903f resolviendo conflictos en el index.html
+d2f49c3 agregando index.js al html
+1c776eb agregando style al html
+61256aa Merge branch 'javascript'
+5ee8248 agrega rama javascript
+68e3c5f agregando archivo style.css
+c2bb423 Creando archivo Index.html
+e89d896 commit
+b6b405d se agrega archivo branch
+313c6f1 nueva imagen de contenido git
+6996fce ignorando archivos.exe
+130f891  Creando Licencia del repositorio
+7bf2650 se agrega descripcion nueva
+c45125a añado nuevo imagen
+c692541 se agrega nombre al README
+17342dc primer commit
