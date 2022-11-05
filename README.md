@@ -2,4 +2,4 @@
 
 Repositorio de prueba de josmirj
 
-Este commit es para agregar nuestra primera etiqueta **1.0.0**
+Tag Version **1.0.0**
